@@ -1,0 +1,6 @@
+@HighCpuSimulation_HostAddress = http://localhost:5149
+
+POST {{HighCpuSimulation_HostAddress}}/generate-report/
+Accept: application/json
+
+###
